@@ -1,5 +1,5 @@
 const images = [
-  'url("assets/na_comunidade_1.jpg")',
+  'url("assets/na_comunidade_1.png")',
   'url("assets/na_comunidade_2.jpg")',
   'url("assets/na_comunidade_3.jpg")',
   'url("assets/na_comunidade_4.jpg")',
